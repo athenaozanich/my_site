@@ -1,27 +1,19 @@
 # Information regarding this project repository
 
 ## Goals
-  The goal of this project is to display a solid understanding of how to set up a web application dashboard for a user, utilizing various technologies and languages in combination with each other. Set up integration of Charts.js to display relevant data and implement the use of javascript to add features to forms and various widgets such as saving site settings to local storage. This project provided only a desktop mockup, leaving the design and development of the layout for screen sizes relevant to mobile and tablet devices on the student.
+  This project was intended as introduction to working on and modifying an existing site or project as well as become familiar with the process of using git/github for version control and project hosting.
 
 ## Languages
   1. HTML5
   2. CSS3
-  3. SASS
-  4. Client side Javascript   
 
 ## Technologies and Techniques
   1. Chrome Dev Tools
   2. Editors
   3. Terminal
   4. git and github
-  5. Mobile First Responsive Design
-  6. Fluid width Responsive Design
-  7. Charts.js plugin
-  8. Local Storage
-  9. Form validation
-  10. Auto Complete Search messages
 
 ## Techdegree Project Description
-Many websites do more than just give you information. Sites like GitHub, Zillow, Mint and Treehouse let users do things. They act like programs you run on your computer. These web applications, often include pages for looking at your profile, what you've done in the week or what you need to get done. These "dashboards" act like your control panel for controlling the web app.
+  For your first project, you’ll practice web design skills by customizing a web page to create a personal profile. You'll modify the code for a basic web page by adding graphics, custom text, and a stylish design. This is a great way for you to practice HTML and CSS skills. It also gives you a web page you can use as a personal online calling card to advertise your experience, skills, and goals, and to provide links to your social media accounts on Twitter, LinkedIn and GitHub.
 
-In this project, you'll take a mockup and a few icons and build a beautiful, web dashboard complete with JavaScript-driven charts and graphs. You only need to take the design and create the HTML, CSS and JavaScript functionality for this one page -- you don't need to create other pages, or build any backend or database functionality.
+  You'll also practice using GitHub, an important tool used by millions of developers to share code and work collaboratively on programming projects. Creating and using a GitHub account is also a great way to share your work with potential employers.
